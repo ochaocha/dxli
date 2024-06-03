@@ -1,0 +1,2 @@
+﻿LIBCMTD.lib(exe_winmain.obj) : error LNK2019: 未解決の外部シンボル WinMain が関数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) で参照されました
+D:\DXライブラリ\プログラム\DxLib2DGame\Project\20240527_コピー\x64\Debug\Project1.exe : fatal error LNK1120: 1 件の未解決の外部参照
